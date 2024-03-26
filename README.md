@@ -7,16 +7,22 @@
 * Prediction of Billing Amount:
 
 Based on patient demographics or other variables, the code's built-in linear regression model can be used to forecast billing amounts. For instance, the model can forecast how much a patient will be charged for their healthcare services based on their age, gender, medical condition, type of admission, and other factors.
-Effects of Variables on Billing Amounts
+
+
+* Effects of Variables on Billing Amounts
 
 Analysis results can be used to forecast how many variables, including age, health, insurance company, and kind of admittance, affect the amount of bills. One may anticipate, for example, that patients with a given medical condition or those treated under a particular form of admission will pay more or less in bills.
+
 
 * Forecasting Revenue:
 
 Healthcare providers can more precisely predict their revenue by knowing the distribution of billing amounts, patterns in room utilisation, and the financial impact of various factors. Based on past data and patterns found in the dataset, projections on the total revenue from admissions or revenue contributions from various insurance carriers can be formed.
-Recognising Expensive Medical Conditions:
+
+
+* Recognising Expensive Medical Conditions:
 
 Healthcare practitioners can estimate which medical conditions would likely result in greater billing amounts by using the analysis that identifies high-cost medical conditions and popular insurance carriers. Healthcare organisations can use this information for risk management, financial planning, and resource allocation.
+
 
 * Analysis of Financial Impact:
 
