@@ -1,7 +1,7 @@
 # Healthcare Analysis using Python Code
 
 
-##The code that is provided loads data from a CSV file into a pandas DataFrame and then does an extensive analysis
+## The code that is provided loads data from a CSV file into a pandas DataFrame and then does an extensive analysis
 of a healthcare dataset. It then moves on to data cleaning and investigation, revealing the contents of the 
 DataFrame and pointing out any null values. Then, using a variety of visualisations, such as histograms, boxplots,
 scatterplots, and barplots, exploratory data analysis (EDA) is carried out to comprehend the distribution and 
